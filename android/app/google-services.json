@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310043336250",
+    "project_id": "sliatemgmnt",
+    "storage_bucket": "sliatemgmnt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310043336250:android:091d44da9106b171119f03",
+        "android_client_info": {
+          "package_name": "com.example.sliate_mngmt_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310043336250-6qn49aurtumhi9f8tm200tql802393td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3vv0kUJQ9qyMjPS_qRPrLICQv9NNhGaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310043336250-6qn49aurtumhi9f8tm200tql802393td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
